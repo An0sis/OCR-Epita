@@ -1,0 +1,8 @@
+URGENT !!
+	rotation auto
+	rotation manuelle
+	grille
+
+Ensuite:
+	to_binary -> threshold dynamic
+	threshold.c -> chek fonctionnement
